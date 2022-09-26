@@ -1,4 +1,4 @@
-# <h1 id="topo"> Projeto 2 - Edital Lais </h1>
+# <h1 id="topo"> Projeto - Edital Lais </h1>
 
 ## <h2 id=sobre>Sobre</h2>
 
